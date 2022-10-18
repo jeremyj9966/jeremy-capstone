@@ -1,0 +1,49 @@
+[
+    {
+      "id" : 1,
+      "name" :"Blue Macaw",
+      "imageURL": "https://images.fineartamerica.com/images/artworkimages/medium/3/blue-macaw-paul-wear.jpg"  
+    },
+    {
+        "id": 2,
+        "name" : "Rainbow macaw",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg_y5v1In3WSSOCqnZuDE_fvMpfK-0aTlGbg&usqp=CAU"
+    },
+    {
+        "id": 3,
+        "name": "African Macaw",
+        "imageURL": "https://media.wired.com/photos/593317802a990b06268ad3db/master/w_1660,h_2500,c_limit/Rainbow_lorikeets_8065738622.jpg"
+    },
+    {
+     
+        "id": 4,
+        "name": "Albino Parakeet",
+        "imageURL": "https://vetexplainspets.com/wp-content/uploads/2020/05/edited-albino-parakeet-budgie-lutino-3-of-1.jpg"   
+    },
+    {
+        "id": 5,
+        "name": "scarlet Parakeet",
+        "imageURL": "https://c4.wallpaperflare.com/wallpaper/662/544/988/aerial-photo-of-high-rise-building-lot-wallpaper-preview.jpg" 
+    },
+    {
+        "id": 6,
+        "name": "Cockatiel",
+        "imageURL": "https://petopedia.petscorner.co.uk/wp-content/uploads/cockatiel.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Red Canary",
+        "imageURL": "https://lafeber.com/pet-birds/wp-content/uploads/2018/06/Red-Factor-Canary.jpg"  
+    },
+    {
+        "id": 8,
+        "name": "Yellow Canary",
+        "imageURL": "https://petkeen.com/wp-content/uploads/2021/05/canary-bird-on-branch-with-flowers_Terentieva-Yulia_Shutterstock-e1627921434220.jpg"  
+    },
+    {
+        "id": 9,
+        "name": "African Ringneck",
+        "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRshMcfnJtzUzNtQqaJQxD0LqbSm1IHUFUxO9l-5VlShx15-lMkHYiECkTlZ6MLucTgHng&usqp=CAU"  
+    }
+
+]
